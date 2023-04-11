@@ -17,4 +17,4 @@
 
 ---
 
-![Snake animation](https://github.com/xGuiix/xGuiix/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xGuiix/xGuiix/blob/main/blob/output/github-contribution-grid-snake.svg)
