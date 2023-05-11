@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Guilherme
+### 👋 Olá!
 
 ---
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/634820119251386369)
